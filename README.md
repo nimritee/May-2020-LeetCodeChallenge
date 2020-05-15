@@ -17,3 +17,9 @@ It consists of 31 daily problems over the month of May. A problem is added here 
 09. Valid Perfect Square - Java
 10. Find the Town Judge - Java
 11. Flood Fill - Java
+12. Single Elements in a Sorted Array - Java
+13. Remove K Digits - Java
+14. Implement Trie (Prefix Tree) - Java
+
+*Week 3*
+15. Maximum sum circular subarray - Java
